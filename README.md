@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="100%" alt="Developer Header Banner" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Developer Coding Setup" />
 </p>
 
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/sanjeevms2007-ship-it">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+There%2C+I'm+SANJEEV+M.S+%F0%9F%91%8B;B.E.+Computer+Science+and+Engineering+Student;Passionate+about+AI+%26+Automation;Optimizing+Systems+%26+Building+Real+Software" alt="Typing Headline Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi+There%2C+I'm+SANJEEV+M.S+%F0%9F%91%8B;B.E.+Computer+Science+%26+Engineering+Student;Passionate+about+AI+%26+Automation;Optimizing+Systems+%26+Building+Real+Software" alt="SANJEEV M.S" />
   </a>
-</p>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjeevms2007-ship-it&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
