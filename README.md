@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=200&section=header&text=SANJEEV%20M.S&fontSize=46&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20Undergrad%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="100%" alt="Developer Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sanjeevms2007-ship-it">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=50&lines=B.E.+Computer+Science+and+Engineering+Student;Passionate+about+AI+%26+Automation;Optimizing+Systems+%26+Building+Real+Software;Continuous+Learner+%26+Tech+Enthusiast" alt="Typing Headline Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Hi+There%2C+I'm+SANJEEV+M.S+%F0%9F%91%8B;B.E.+Computer+Science+and+Engineering+Student;Passionate+about+AI+%26+Automation;Optimizing+Systems+%26+Building+Real+Software" alt="Typing Headline Animation" />
   </a>
 </p>
 
@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=sanjeevms2007-ship-it&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 👋 About Me
 
@@ -28,7 +30,9 @@ I'm a developer passionate about **AI, automation, system optimization, and buil
 
 > *“Building useful things, learning continuously, and improving one project at a time.”*
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 🎓 Education
 
@@ -40,7 +44,9 @@ I'm a developer passionate about **AI, automation, system optimization, and buil
 | 📅 **Academic Period** | **2025 – 2029** |
 | 📍 **Location** | **Trichy, Tamil Nadu, India** |
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 🛠️ Tech Interests
 
@@ -57,7 +63,9 @@ I'm a developer passionate about **AI, automation, system optimization, and buil
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 💻 Programming Languages
 
@@ -68,7 +76,9 @@ I'm a developer passionate about **AI, automation, system optimization, and buil
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -81,7 +91,9 @@ I'm a developer passionate about **AI, automation, system optimization, and buil
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjeevms2007-ship-it&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 📂 Featured Projects & Work
 
@@ -90,7 +102,9 @@ I'm a developer passionate about **AI, automation, system optimization, and buil
 | 🌐 **Frontend HTML Projects** | Interactive web pages and frontend development practice. | [View Repository](https://github.com/sanjeevms2007-ship-it/project-1-front-end-html-) |
 | 🚀 **Explore All Repositories** | Browse all active repositories, scripts, and software projects. | [Explore on GitHub](https://github.com/sanjeevms2007-ship-it?tab=repositories) |
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ## 📬 Connect With Me
 
@@ -100,8 +114,6 @@ I'm a developer passionate about **AI, automation, system optimization, and buil
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
